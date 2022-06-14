@@ -5,4 +5,5 @@ Installation
 1. Install Docker Compose, PHP 8.1, Composer
 2. Install Laravel via: curl -s https://laravel.build/famous-quote-quiz-web-app?with=mysql | bash
 3. cd famous-quote-quiz-web-app && ./vendor/bin/sail up
+4. composer require laravel/breeze --dev
 
