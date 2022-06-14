@@ -4,4 +4,5 @@ Web application representing the famous quote quiz where the user will have to p
 Installation
 1. Install Docker Compose
 2. Install Laravel via: curl -s https://laravel.build/famous-quote-quiz-web-app?with=mysql | bash
+3. cd famous-quote-quiz-web-app && ./vendor/bin/sail up
 
