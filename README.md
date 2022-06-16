@@ -9,7 +9,6 @@ Installation
 5. php artisan breeze:install vue
 6. npm install && npm run dev
 7. In .env set DB_HOST=localhost
-8. Create database "famous_quote_quiz_web_app"
-9. php artisan migrate
-10. ./vendor/bin/sail up
+9. ./vendor/bin/sail up
+10. php artisan migrate
 
