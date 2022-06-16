@@ -11,4 +11,5 @@ Installation
 7. In .env set DB_HOST=127.0.0.1
 9. ./vendor/bin/sail up
 10. php artisan migrate
+11. Open http://localhost/ with your browser
 
